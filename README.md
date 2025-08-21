@@ -74,7 +74,7 @@ Through this project, I:
 
 ## Connect with Me
 I’m passionate about automation testing and always eager to discuss tools like Cypress! Feel free to:
-- 📧 Reach out on [LinkedIn](https://www.linkedin.com/in/your-profile) to connect or share feedback.
+- 📧 Reach out on [LinkedIn](https://www.linkedin.com/in/tayabmalik/) to connect or share feedback.
 - 🐛 Report issues or suggest improvements via GitHub Issues.
 - 🌟 Star this repository if you find it helpful!
 
